@@ -1,0 +1,11 @@
+{"repositories": [
+    {
+         "type": "composer", 
+         "url": "https://packagist.org"
+    },
+    { "packagist": false }
+],
+         "require": {
+                  "swiftmailer/swiftmailer": "^6.0"
+         }
+}
